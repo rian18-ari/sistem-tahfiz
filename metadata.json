@@ -1,0 +1,8 @@
+{
+  "name": "Remix Sistem Tahfiz",
+  "description": "Sistem Manajemen \u0026 Pemantauan Hafalan Al-Qur\u0027an Santri untuk Pesantren dan Sekolah Islam",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
